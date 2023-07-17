@@ -1,0 +1,105 @@
+*{
+  padding: 0;
+  box-sizing: border-box;
+  margin: 0;
+}
+body{
+  background-color: #ccc;
+}
+p{
+  font-size: 20px;
+}
+h2{
+  color: dodgerblue;
+  font-size: 70px;
+  margin-top: 40px;
+}
+nav{
+  border: 1px solid black;
+  width: 450px;
+  height: 370px;
+  background-color: white;
+  border-radius: 15px;
+  text-align: center;
+  margin-left: 250px;
+  border: none;
+  margin-top: -250px;
+  margin-left: 750px;
+  box-shadow: 0px 2px 10px 1px rgba(71, 71, 71, 0.52);
+}
+#fon{
+  font-size: 30px;
+}
+main{
+  margin-top: 230px;
+  margin-left: 100px;
+}
+input{
+  outline: none;
+  padding: 18px;
+  width: 400px;
+  margin-top: 20px;
+  font-size: 18px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+}
+
+::placeholder{
+  color: rgb(166, 165, 165);
+}
+nav input:focus{
+  border: 1px solid dodgerblue;
+}
+#shift{
+  margin-top: 20px;
+  font-weight: bold;
+  width: 400px;
+  padding: 15px;
+  font-size: 20px;
+  color: white;
+  background-color: dodgerblue;
+  border: none;
+  border-radius: 10px;
+}
+hr{
+  width: 300px;
+  text-align: center;
+  margin: auto;
+  margin-top: 30px;
+}
+#tag{
+  margin-top: 20px;
+  text-decoration: none;
+  color: dodgerblue;
+}
+#shi{
+  margin-top: 25px;
+  width: 200px;
+  padding: 15px;
+  color: white;
+  background-color: mediumseagreen;
+  border-radius: 10px;
+  font-size: 17px;
+  font-weight: bold;
+  border: none;
+}
+#down{
+  margin-top: 20px;
+  margin-left: 800px;
+}
+#taggg{
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 15px
+}
+#redd{
+  font-size: 15px;
+}
+#tag:hover{
+  text-decoration: underline;
+}
+#taggg:hover{
+  text-decoration: underline;
+}
+
